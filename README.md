@@ -2,7 +2,7 @@
 This SQL project analyzes data from a DVD rental business using SQLite. It addresses key business questions related to customer insights, rental patterns, revenue analysis, and movie popularity. The project provides actionable insights for marketing, finance, and strategic planning through complex queries and data exploration.
 
 ## Problem Statement:
--Imagine you have been hired as a data analyst and you've been tasked with analyzing the data of this company. Below is the description of dataset provided. You are supposed to use sqlite to work on this project.
+Imagine you have been hired as a data analyst and you've been tasked with analyzing the data of this company. Below is the description of dataset provided. You are supposed to use sqlite to work on this project.
 
 ## **Dataset**
 You will be using the dataset named [sqlite-sakila.db](./data/sqlite-sakila.db). This dataset contains data on one of the businesses your company owns. In this database you have information about the company's dvd rental business. The middle management has come up with a set of business questions and they need an answer to these. Can you help them out?
