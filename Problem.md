@@ -23,7 +23,7 @@ You will be using the dataset named [sqlite-sakila.db](./data/sqlite-sakila.db).
 
 7. One of the questions that the business is interested in is about the popularity of the movies in the current inventory also the stores and customers who bring in more revenue. Help the business in finding out
     - The number of times each movie is rented out
-    - Revenue pre movie
+    - Revenue per movie
     - Most revenue earned by a store
     - Which customer has spent the most
 
